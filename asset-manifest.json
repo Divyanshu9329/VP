@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VP/static/css/main.7064deb2.css",
+    "main.js": "/VP/static/js/main.f59d159f.js",
+    "index.html": "/VP/index.html",
+    "main.7064deb2.css.map": "/VP/static/css/main.7064deb2.css.map",
+    "main.f59d159f.js.map": "/VP/static/js/main.f59d159f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.f59d159f.js"
+  ]
+}
